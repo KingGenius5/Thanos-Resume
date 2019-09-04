@@ -1,0 +1,64 @@
+body {
+  margin-top: 60px;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-bottom: 60px;
+}
+
+img {
+  border-color: #6F3C89;
+  border-width: 15px;
+  border-style: solid;
+}
+
+h3 {
+  font-family: Monospace;
+}
+
+.well {
+  background-color: #E6E8FA;
+  border-color: black;
+  border-width: 10px;
+  border-style: ridge double;
+  border-radius: 5%;
+}
+
+#caption {
+  color: white;
+}
+
+#moral {
+  background-color: #FF8B00;
+  color: white;
+}
+
+#histitle {
+  border-color: #266EF6;
+  border-width: 5px;
+  border-radius: 25%;
+}
+
+#timeline {
+  background-color: white;
+}
+
+ul.no_bullet {
+  list-style-type: none;
+  padding: 1;
+  margin: 0;
+}
+
+li.boxing-glove {
+  background:
+    url(https://image.winudf.com/v2/image/Y29tLm1vYmluY3ViZS5pbmZpbml0eV9nZW1zX3RoYW5vcy5zY19ETTlSUUpfaWNvbl8xNTI4NTE1NTc2XzA4OA/icon.png?w=40&fakeurl=1) no-repeat left top;
+  height: 40px;
+  padding-left: 40px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+
+
+h1 {
+  font-size: 75px;
+}
